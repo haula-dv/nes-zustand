@@ -1,6 +1,6 @@
 {
   "name": "nes-zustand",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "description": "A Zustand store library with generic store functions.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -36,7 +36,7 @@
   "author": "Hau La",
   "license": "MIT",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/haula-dv/nes-zustand.git"
-}
+    "type": "git",
+    "url": "https://github.com/haula-dv/nes-zustand.git"
+  }
 }
