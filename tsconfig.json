@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "declaration": true,        // Generate .d.ts files
+    "declarationMap": true,     // Optional: Generate sourcemaps for declarations
+    "rootDir": "./src",
+    "strict": true,
+    "module": "commonjs",       // or "esnext", depending on your module system
+    "target": "es6",            // or your preferred ECMAScript target
+    "esModuleInterop": true,    // Optional: for compatibility with CommonJS modules
+    "skipLibCheck": true        // Optional: to speed up compilation
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
