@@ -88,6 +88,3 @@ export const MainLoading = () => {
 | createZustandStore | create state function                                     |
 | setZustandValue    | setter function, pass value to be set as second parameter |
 | getZustandValue    | getter function                                           |
-# nes-zustand
-# nes-zustand
-# nes-zustand
